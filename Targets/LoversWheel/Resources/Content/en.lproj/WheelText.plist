@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WheelText</key>
+	<dict>
+		<key>Gentle Massage</key>
+		<string>Perform a gentle sensuous massage for your partner.</string>
+		<key>Dance of Love</key>
+		<string>Slow dance with your partner to one of your favourite songs.</string>
+		<key>The Switch</key>
+		<string>Exchange underwear with your partner.</string>
+		<key>Extra Clothes</key>
+		<string>Choose two items of clothing that your partner has to remove.</string>
+		<key>Blind Senses</key>
+		<string>Blindfold your partner and gently graze their body with an object of your choosing until they guess what it is.</string>
+		<key>Dress Up</key>
+		<string>Pick an outfit for your partner to wear whilst they perform an interesting task of your choice.</string>
+		<key>Frankly...</key>
+		<string>Tell your partner what attracts you to them and why.</string>
+		<key>Proximity</key>
+		<string>Engage your partner in a long hug, whilst hugging, gently stroke your partners back, neck and sides.</string>
+		<key>Glamour Shot</key>
+		<string>Pose for your partner whilst they take at least 5 pictures of you. Clothing is optional...</string>
+		<key>Sloppy Seconds</key>
+		<string>Hold some food between your lips and have your partner eat it without using their hands.</string>
+		<key>A Toast to Love</key>
+		<string>Toast your partner and your relationship together. Don’t forget a kiss for good luck!</string>
+		<key>As You Wish</key>
+		<string>Tend to your partners every need for the rest of the day.</string>
+		<key>Pet Name</key>
+		<string>Create new intimate names for each other that you should use from now on.</string>
+		<key>Track of kisses</key>
+		<string>Starting with their right cheek, begin kissing your partner down their right side. Make your way back up the left side of their body until you reach your partners left cheek.</string>
+		<key>Striptease</key>
+		<string>Perform a striptease or sexy dance for your partner.</string>
+		<key>That Feeling</key>
+		<string>Passionately kiss your partner for at least 1 minute.</string>
+		<key>Bedroom?</key>
+		<string>Go to bed.</string>
+		<key>Recognition</key>
+		<string>Make a promise to your partner that you know they will appreciate.</string>
+		<key>Table Manners</key>
+		<string>Take it in turns to feed each other something sweet.</string>
+		<key>Desire</key>
+		<string>Fulfill one of your partner’s desires or fantasies.</string>
+		<key>Portrait</key>
+		<string>Spend 5 minutes drawing each others portrait. Don’t peek until you have both finished.</string>
+		<key>Love Letters</key>
+		<string>Both you and your partner write a short letter to one another and hide them somewhere in the house away from each other. Forget about them until you find them one day.</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DrinkingWheel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>TruthOrDare.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Wheel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>02A3135C163420FA0014D589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>02A313D9163420FD0014D589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>02A31459163421A00014D589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>02A31478163421B80014D589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>02E72F6A16122C6100033EBD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E49B374216C14E160087ADE7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
